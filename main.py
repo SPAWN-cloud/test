@@ -1,4 +1,4 @@
-cd {HOME}
+cd ${HOME}
 termux-wake-lock
 
 DATABASE="https://discord.com/api/webhooks/987366677845012500/8UBH7xmMEThWqePEUcwObKGY7PLXW5UkaRc65rGCaZgtKZZKzthpyLCmnDy1y72VKVof"
